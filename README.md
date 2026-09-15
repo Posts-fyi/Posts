@@ -4,7 +4,7 @@ A reader where everything is a feed, and some feeds are private.
 
 Subscribe to public feeds and read them. Give every sender its own **hook** — three random words — and delete it when you're done. One Worker on your own Cloudflare account.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR-USERNAME/posts)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Posts-fyi/posts)
 
 ```text
 posts.example/                         nothing. accepts nothing, reveals nothing.
@@ -73,7 +73,7 @@ Two routes to the same result. The button is quicker and needs nothing installed
 **A2. Point the button at your copy.** In this README, change `YOUR-USERNAME` in the button link to your account:
 
 ```
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR-USERNAME/posts)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Posts-fyi/posts)
 ```
 
 The link is just `https://deploy.workers.cloudflare.com/?url=` followed by your repository URL, so it works pasted into a browser too.
